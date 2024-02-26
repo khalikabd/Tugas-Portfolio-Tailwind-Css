@@ -8,7 +8,7 @@ This project currently under development so if u wanna merge branch, please **ME
 
 **Note: You need to create a new branch following your feature before merge, and do not merge before your feature is done.**
 
-[Live Demo](http://frontend-a-payment-monitoring-dot-rakamin-322505.et.r.appspot.com/)
+[Live Demo](http://khalikabd.github.io/Tugas-Portfolio-Tailwind-Css/)
 
 ## Installation
 
