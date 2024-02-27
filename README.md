@@ -2,11 +2,8 @@
 
 Payment Monitoring is an application to help bank customers doing a payment request without going to the agent place.
 
-This project was Created with [Create React App](https://github.com/facebook/create-react-app).
+This project was Created with [Create TailwindCSS](https://github.com/facebook/tailwind).
 
-This project currently under development so if u wanna merge branch, please **MERGE IT TO DEVELOP BRANCH FIRST**.
-
-**Note: You need to create a new branch following your feature before merge, and do not merge before your feature is done.**
 
 [Live Demo](http://khalikabd.github.io/Tugas-Portfolio-Tailwind-Css/)
 
@@ -14,27 +11,41 @@ This project currently under development so if u wanna merge branch, please **ME
 
 In the project directory, you can run:
 
-### `npm install` or `yarn install`
+you have to clone the github repository
 
-Install all package and modules in your project directory
+### `https://github.com/khalikabd/Tugas-Portfolio-Tailwind-Css.git`
 
-### `npm start` or `yarn start`
+then initiate npm
+
+### `npm init -y`
+
+Install tailwidcss in your project directory
+
+### `npm install -D tailwindcss`
+
+then initiate npx
+
+### `npx tailwindcss init`
+
+Start the Tailwind CLI build process
+
+### `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open live server for to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Contributors
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/19157-AhmadNursidikDinar"><img src="https://avatars.githubusercontent.com/u/83756214?v=4?s=100" width="100px;" alt=""/>
+      <a href="https://github.com/khalikabd"><img src="https://avatars.githubusercontent.com/u/45898984?v=4?s=100" width="100px;" alt=""/>
         <br />
         <sub>
-            <b>19157-AhmadNursidikDinar</b>
+            <b>khalikabd</b>
         </sub>
       </a>
     </td>
@@ -43,14 +54,6 @@ You will also see any lint errors in the console.
         <br />
         <sub>
             <b>amary21</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ardisaurus"><img src="https://avatars.githubusercontent.com/u/24281652?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>ardisaurus</b>
         </sub>
       </a>
     </td>
@@ -70,47 +73,7 @@ You will also see any lint errors in the console.
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/khalikabd"><img src="https://avatars.githubusercontent.com/u/45898984?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>khalikabd</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/novrianta-sbr"><img src="https://avatars.githubusercontent.com/u/68168351?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>novrianta-sbr</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/prima7"><img src="https://avatars.githubusercontent.com/u/88228291?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>prima7</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rinaldyzaka"><img src="https://avatars.githubusercontent.com/u/76929123?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>rinaldyzaka</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/slsbillaadst"><img src="https://avatars.githubusercontent.com/u/88222789?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>slsbillaadst</b>
-        </sub>
-      </a>
-    </td>
+
+   
   </tr>
 </table>
