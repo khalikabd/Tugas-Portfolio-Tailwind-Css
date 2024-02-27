@@ -2,11 +2,8 @@
 
 Payment Monitoring is an application to help bank customers doing a payment request without going to the agent place.
 
-This project was Created with [Create React App](https://github.com/facebook/create-react-app).
+This project was Created with [Create TailwindCSS](https://github.com/facebook/tailwind).
 
-This project currently under development so if u wanna merge branch, please **MERGE IT TO DEVELOP BRANCH FIRST**.
-
-**Note: You need to create a new branch following your feature before merge, and do not merge before your feature is done.**
 
 [Live Demo](http://khalikabd.github.io/Tugas-Portfolio-Tailwind-Css/)
 
@@ -14,7 +11,7 @@ This project currently under development so if u wanna merge branch, please **ME
 
 In the project directory, you can run:
 
-### `npm install` or `yarn install`
+### `npm init -y`
 
 Install all package and modules in your project directory
 
@@ -83,16 +80,6 @@ You will also see any lint errors in the console.
         <br />
         <sub>
             <b>novrianta-sbr</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/prima7"><img src="https://avatars.githubusercontent.com/u/88228291?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>prima7</b>
         </sub>
       </a>
     </td>
