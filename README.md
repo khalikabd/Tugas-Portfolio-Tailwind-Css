@@ -96,21 +96,5 @@ You will also see any lint errors in the console.
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/rinaldyzaka"><img src="https://avatars.githubusercontent.com/u/76929123?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>rinaldyzaka</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/slsbillaadst"><img src="https://avatars.githubusercontent.com/u/88222789?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>slsbillaadst</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
