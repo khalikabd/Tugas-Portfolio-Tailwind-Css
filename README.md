@@ -11,27 +11,41 @@ This project was Created with [Create TailwindCSS](https://github.com/facebook/t
 
 In the project directory, you can run:
 
+you have to clone the github repository
+
+### `https://github.com/khalikabd/Tugas-Portfolio-Tailwind-Css.git`
+
+then initiate npm
+
 ### `npm init -y`
 
-Install all package and modules in your project directory
+Install tailwidcss in your project directory
 
-### `npm start` or `yarn start`
+### `npm install -D tailwindcss`
+
+then initiate npx
+
+### `npx tailwindcss init`
+
+Start the Tailwind CLI build process
+
+### `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open live server for to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Contributors
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/19157-AhmadNursidikDinar"><img src="https://avatars.githubusercontent.com/u/83756214?v=4?s=100" width="100px;" alt=""/>
+      <a href="https://github.com/khalikabd"><img src="https://avatars.githubusercontent.com/u/45898984?v=4?s=100" width="100px;" alt=""/>
         <br />
         <sub>
-            <b>19157-AhmadNursidikDinar</b>
+            <b>khalikabd</b>
         </sub>
       </a>
     </td>
@@ -40,14 +54,6 @@ You will also see any lint errors in the console.
         <br />
         <sub>
             <b>amary21</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ardisaurus"><img src="https://avatars.githubusercontent.com/u/24281652?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>ardisaurus</b>
         </sub>
       </a>
     </td>
@@ -67,21 +73,7 @@ You will also see any lint errors in the console.
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/khalikabd"><img src="https://avatars.githubusercontent.com/u/45898984?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>khalikabd</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/novrianta-sbr"><img src="https://avatars.githubusercontent.com/u/68168351?v=4?s=100" width="100px;" alt=""/>
-        <br />
-        <sub>
-            <b>novrianta-sbr</b>
-        </sub>
-      </a>
-    </td>
+
+   
   </tr>
 </table>
