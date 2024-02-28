@@ -1,6 +1,6 @@
 # Portfolio Tailwindcss
 
-Payment Monitoring is an application to help bank customers doing a payment request without going to the agent place.
+The Portfolio Application designed using Tailwind CSS is a modern and responsive solution for showcasing the skills and work of a professional or individual who wants to showcase their portfolio online. Tailwind CSS, as a utility-first CSS framework, provides speed of development and aesthetic design with easily customizable components.
 
 This project was Created with [Create TailwindCSS](https://github.com/facebook/tailwind).
 
@@ -50,10 +50,10 @@ You will also see any lint errors in the console.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/amary21"><img src="https://avatars.githubusercontent.com/u/43547226?v=4?s=100" width="100px;" alt=""/>
+      <a href="https://github.com/VijayRangga"><img src="https://avatars.githubusercontent.com/u/45963814?v=4?s=100" width="100px;" alt=""/>
         <br />
         <sub>
-            <b>amary21</b>
+            <b>Vijay Rangga KS</b>
         </sub>
       </a>
     </td>
